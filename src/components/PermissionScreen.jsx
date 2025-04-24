@@ -105,7 +105,7 @@ const PermissionScreen = ({ onAllow }) => {
         {/* Footer */}
         <div className="px-6 py-4 bg-gray-50 border-t border-gray-200">
           <p className="text-xs text-center text-gray-500">
-            By allowing access, you agree to our <a href="#" className="text-blue-600 hover:underline">Terms of Service</a> and <a href="#" className="text-blue-600 hover:underline">Privacy Policy</a>.
+            By allowing access, you agree to our <a href="https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwj6i4GrzfCMAxUKQEEAHcBWHiAQPQgK" className="text-blue-600 hover:underline">Terms of Service</a> and <a href="https://www.google.com/webhp?hl=en&ictx=2&sa=X&ved=0ahUKEwj6i4GrzfCMAxUKQEEAHcBWHiAQPQgK" className="text-blue-600 hover:underline">Privacy Policy</a>.
           </p>
         </div>
       </div>
